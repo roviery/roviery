@@ -1,16 +1,16 @@
-### Hi!!!
+### Hello 👋 Welcome to my Github!
+* 📱 Android Enthusiast 
+* 🖥️ Currently learn about Backend Engineering using Golang at Ruangguru X Kampus Merdeka
 
-<!--
-**roviery/roviery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats 📊 
+<a href="https://github.com/roviery/roviery">
+  <img src="https://github-readme-stats.vercel.app/api?username=roviery&hide_border=true&bg_color=000000&title_color=3ddb83&text_color=3ddb83&hide=issues"/>
+</a>
+<a href="https://github.com/roviery/roviery">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roviery&layout=compact&hide_border=true&bg_color=000000&title_color=3ddb83&text_color=3ddb83"/>
+</a>
+<a href="https://github.com/roviery/roviery">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roviery&theme=android-dark&date_format=j%20M%5B%20Y%5D&hide_border=true"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
