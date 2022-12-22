@@ -1,5 +1,5 @@
 ### Hello 👋 Welcome to my Github!
-* 📱 Android Enthusiast 
+* 📱 Android & Backend Enthusiast 
 * 🖥️ Currently learn about Backend Engineering using Golang at Ruangguru X Kampus Merdeka
 * 💻 My portfolio https://roviery.github.io/personal-website/
 * 📧 Contact me at roviery@gmail.com
