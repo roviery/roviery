@@ -1,6 +1,6 @@
 ### Hello 👋 Welcome to my Github!
 * 📱 Android & Backend Enthusiast 
-* 🖥️ Currently learn about Backend Engineering using Golang at Ruangguru X Kampus Merdeka
+* 🖥️ Currently learn about Backend Engineering using Golang
 * 💻 My portfolio https://roviery.github.io/personal-website/
 * 📧 Contact me at roviery@gmail.com
 
