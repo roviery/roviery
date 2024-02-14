@@ -1,7 +1,5 @@
 ### Hello 👋 Welcome to my Github!
-* 📱 Android & Backend Enthusiast 
-* 🖥️ Currently learn about Backend Engineering using Golang
-* 💻 My portfolio https://www.roviery.com
+* 📱 Software Engineer
 * 📧 Contact me at roviery@gmail.com
 
 ## Github Stats 📊 
